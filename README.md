@@ -9,7 +9,7 @@
 
 ### **Desenvolvedor Web Fullstack**
 
-**1 ano de experiência** | ![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel) ![Node.js Badge](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![React Badge](https://img.shields.io/badge/-React-blue?logo=react) ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?logo=jquery) ![Material UI Badge](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
+**1 ano de experiência** | ![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel) ![Node.js Badge](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![React Badge](https://img.shields.io/badge/-React-blue?logo=react) ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?logo=jquery) ![Material UI Badge](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql) ![Git Badge](https://img.shields.io/badge/-Git-black?logo=git)
 
 Sou um desenvolvedor web fullstack especializado no desenvolvimento de sistemas para o setor bancário, com foco em operações de telemarketing. Tenho experiência em manter e escalar sistemas, além de ser comprometido com aprendizado contínuo e práticas de desenvolvimento de alta qualidade.
 
