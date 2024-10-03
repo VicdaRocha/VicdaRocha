@@ -1,15 +1,15 @@
 # Victor Carvalho da Rocha
 
-![Phone Icon](https://img.icons8.com/ios-filled/16/000000/phone.png) **Celular:** (71) 9 9958-9986  
-![Email Icon](https://img.icons8.com/ios-filled/16/000000/email-open.png) **Email:** [victorcarvalhor.vr@gmail.com](mailto:victorcarvalhor.vr@gmail.com)  
-![LinkedIn Icon](https://img.icons8.com/ios-filled/16/000000/linkedin.png) **LinkedIn:** [linkedin.com/in/victorcdarocha](https://www.linkedin.com/in/victorcdarocha)  
-![Github Icon](https://img.icons8.com/ios-filled/16/000000/github.png) **Github:** [github.com/VicdaRocha](https://github.com/VicdaRocha)
+![Phone Icon](https://img.icons8.com/ios-filled/16/000000/phone.png) (71) 9 9958-9986  
+![Email Icon](https://img.icons8.com/ios-filled/16/000000/email-open.png) [victorcarvalhor.vr@gmail.com](mailto:victorcarvalhor.vr@gmail.com)  
+![LinkedIn Icon](https://img.icons8.com/ios-filled/16/000000/linkedin.png) [linkedin.com/in/victorcdarocha](https://www.linkedin.com/in/victorcdarocha)  
+![Github Icon](https://img.icons8.com/ios-filled/16/000000/github.png) [github.com/VicdaRocha](https://github.com/VicdaRocha)
 
 ---
 
 ### **Desenvolvedor Web Fullstack**
 
-**1 ano de experiência** | ![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel) ![Node.js Badge](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![React Badge](https://img.shields.io/badge/-React-blue?logo=react) ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?logo=jquery) ![Material UI Badge](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql) ![Git Badge](https://img.shields.io/badge/-Git-black?logo=git)
+![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel) ![Node.js Badge](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![React Badge](https://img.shields.io/badge/-React-blue?logo=react) ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?logo=jquery) ![Material UI Badge](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql) ![Git Badge](https://img.shields.io/badge/-Git-black?logo=git)
 
 Sou um desenvolvedor web fullstack especializado no desenvolvimento de sistemas para o setor bancário, com foco em operações de telemarketing. Tenho experiência em manter e escalar sistemas, além de ser comprometido com aprendizado contínuo e práticas de desenvolvimento de alta qualidade.
 
@@ -74,7 +74,7 @@ _Amanda Clearcreek High School, Amanda, OH (2012–2013)_
 ![Portuguese Badge](https://img.shields.io/badge/-Portuguese_Nativo-green)  
 🇧🇷 **Português:** Nativo  
 ![English Badge](https://img.shields.io/badge/-English_Fluent-blue)  
-🇬🇧 **Inglês:** Fluente  
+us **Inglês:** Fluente  
 ![Spanish Badge](https://img.shields.io/badge/-Spanish_Intermediate-yellow)  
 🇪🇸 **Espanhol:** Intermediário  
 ![German Badge](https://img.shields.io/badge/-German_Basic-lightgrey)  
