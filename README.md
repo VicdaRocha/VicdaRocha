@@ -7,24 +7,26 @@
 
 ---
 
-### **Desenvolvedor Web Fullstack**  
+### **Desenvolvedor Web Fullstack**
+
 **1 ano de experiência** | ![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel) ![Node.js Badge](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![React Badge](https://img.shields.io/badge/-React-blue?logo=react) ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?logo=jquery) ![Material UI Badge](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
+
+Sou um desenvolvedor web fullstack especializado no desenvolvimento de sistemas para o setor bancário, com foco em operações de telemarketing. Tenho experiência em manter e escalar sistemas, além de ser comprometido com aprendizado contínuo e práticas de desenvolvimento de alta qualidade.
 
 ---
 
 ## **Experiência Profissional**
 
 ### 🏢 **Plansul - Planejamento e Consultoria**  
-**Analista de Sistemas (Mai 2023–atual)**  
-- 💻 Desenvolvi novas funcionalidades e dei manutenção ao sistema interno de gestão de produção e qualidade do atendimento ![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel) ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?logo=jquery) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql).
-- 🏆 Desenvolvi, em tempo hábil, uma aplicação para um programa de pontos interno para recompensar os operadores ![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel) ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?logo=jquery) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql).
-- 🔧 Dei manutenção ao sistema de planejamento e controle pessoal ![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel) ![React Badge](https://img.shields.io/badge/-React-blue?logo=react) ![Material UI Badge](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql).
+**Analista de Sistemas** (Mai 2023 – Atual)  
+- 💻 Desenvolvimento e manutenção de sistemas de gestão de produção e qualidade do atendimento utilizando ![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel), ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?logo=jquery), e ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql).
+- 🏆 Criação de uma aplicação interna para um programa de recompensas, promovendo o desempenho dos operadores.
+- 🔧 Manutenção do sistema de planejamento e controle pessoal utilizando ![React Badge](https://img.shields.io/badge/-React-blue?logo=react), ![Material UI Badge](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui), e ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql).
 
 ### 🏢 **Senai – CIMATEC**  
-**Bolsista de Iniciação Tecnológica (Jun 2019–Dez 2019)**  
-- 🚗 Contribuí na pesquisa automotiva para o desenvolvimento de componentes veiculares sustentáveis.
-- 📝 Confeccionei documentos relativos à pesquisa.
-- 🎤 Dei suporte na apresentação de resultados ao cliente.
+**Bolsista de Iniciação Tecnológica** (Jun 2019 – Dez 2019)  
+- 🚗 Contribuí na pesquisa automotiva para desenvolvimento de componentes sustentáveis.
+- 📝 Criação de relatórios e documentação técnica do projeto.
 
 ---
 
@@ -41,16 +43,12 @@ _Amanda Clearcreek High School, Amanda, OH (2012–2013)_
 
 ---
 
-## **Habilidades**
+## **Habilidades Técnicas**
 
-### **Soft Skills**
-![Teamwork Badge](https://img.shields.io/badge/Soft_Skills-Trabalho_em_Equipe-blue)  
-🤝 Trabalho em equipe, 🛠️ Resolução de problemas, 💡 Pensamento criativo, 📊 Pensamento analítico, 💬 Empatia.
-
-### **Desenvolvimento Front-End**
+### **Front-End**
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5) ![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?logo=css3) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![React Badge](https://img.shields.io/badge/-React-blue?logo=react) ![jQuery Badge](https://img.shields.io/badge/-jQuery-blue?logo=jquery) ![Material UI Badge](https://img.shields.io/badge/-Material--UI-007FFF?logo=mui)
 
-### **Desenvolvimento Back-End**
+### **Back-End**
 ![Laravel Badge](https://img.shields.io/badge/-Laravel-red?logo=laravel) ![Node.js Badge](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 
 ### **Banco de Dados**
@@ -58,6 +56,16 @@ _Amanda Clearcreek High School, Amanda, OH (2012–2013)_
 
 ### **Controle de Versão**
 ![Git Badge](https://img.shields.io/badge/-Git-black?logo=git) ![GitHub Badge](https://img.shields.io/badge/-GitHub-black?logo=github)
+
+---
+
+## **Soft Skills**
+
+- 🤝 Trabalho em equipe  
+- 💡 Pensamento criativo  
+- 🛠️ Resolução de problemas  
+- 📊 Pensamento analítico  
+- 💬 Empatia
 
 ---
 
